@@ -21,6 +21,7 @@ Install dependencies:
 pip install langchain sentence-transformers faiss-cpu
 Add your scraped documentation.
 Run the chatbot cells and start querying.
+
 Demo Video Watch the quick walkthrough: (https://drive.google.com/file/d/1UZgELurgyIu4a8iPEZ1hFHv5RZXUTpTw/view?usp=sharing)
 
 ⭕️ Note on Documentation Size :
